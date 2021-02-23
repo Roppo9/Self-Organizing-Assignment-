@@ -7612,6 +7612,7 @@ button.bg-dark:focus {
   margin-bottom: 3rem !important;
   height: 300px;
   width: 300px;
+  vertical-align: center;
 }
 
 .ml-5,
@@ -10242,7 +10243,3 @@ form .row:first-child .floating-label-form-group {
   background-color: #1a252f;
 }
 
-img {
-  height: 300;
-  width: 300;
-}

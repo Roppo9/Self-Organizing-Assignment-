@@ -2880,11 +2880,11 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #1abc9c;
+  color: #1a81bc;
   text-decoration: none;
 }
 .btn-link:hover {
-  color: #117964;
+  color: #0c5da8;
   text-decoration: underline;
 }
 .btn-link:focus, .btn-link.focus {
@@ -4584,7 +4584,7 @@ input[type=button].btn-block {
 }
 .page-link:hover {
   z-index: 2;
-  color: #117964;
+  color: #114a79;
   text-decoration: none;
   background-color: #e9ecef;
   border-color: #dee2e6;
@@ -10100,7 +10100,7 @@ h3 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #1abc9c;
+    background: #1a73bc;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;

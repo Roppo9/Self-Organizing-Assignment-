@@ -246,6 +246,7 @@ textarea {
   font-family: inherit;
   font-size: inherit;
   line-height: inherit;
+  
 }
 
 button,
@@ -7609,6 +7610,8 @@ button.bg-dark:focus {
 .mb-5,
 .my-5 {
   margin-bottom: 3rem !important;
+  height: 300px;
+  width: 300px;
 }
 
 .ml-5,

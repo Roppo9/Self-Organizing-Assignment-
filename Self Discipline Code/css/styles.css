@@ -1092,6 +1092,7 @@ pre code {
     flex: 0 0 50%;
     max-width: 50%;
     vertical-align: center;
+    margin-left: 10%;
   }
 
   .col-md-7 {
@@ -10158,6 +10159,7 @@ h3 {
   transition: all 0.2s ease-in-out;
   opacity: 0;
   background-color: rgba(26, 91, 188, 0.9);
+
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
